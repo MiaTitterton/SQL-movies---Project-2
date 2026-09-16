@@ -1,3 +1,6 @@
+OVERVIEW: This project aims to demonstrate key SQL skills and techniques commonly used by data analysts to explore, clean, and analyse retail sales data. It covers the process of creating and managing a retail sales database, conducting exploratory data analysis and using SQL queries to answer a range of business-focused questions.
+
+
 # SQL-movies---Project-2
 
 DROP TABLE IF EXISTS film_data;
